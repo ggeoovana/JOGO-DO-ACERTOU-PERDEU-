@@ -1,0 +1,7 @@
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\bin\Debug\JOGO1.0.exe.config
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\bin\Debug\JOGO1.0.exe
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\bin\Debug\JOGO1.0.pdb
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\obj\Debug\JOGO1.0.csproj.AssemblyReference.cache
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\obj\Debug\JOGO1.0.csproj.CoreCompileInputs.cache
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\obj\Debug\JOGO1.0.exe
+C:\Users\ferre\source\repos\JOGO1.0\JOGO1.0\obj\Debug\JOGO1.0.pdb
